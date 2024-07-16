@@ -1,10 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ahmet-Efdal
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ===================================================================================================================================
 
-My name is Ahmet-Efdal (some know me as Dragon). I'm doing an apprenticeship as Software Engineer full time and improving my skills further in my free time. Pascal was my first language and I'm currently experimenting with Web Development.
+My name is Ahmet-Efdal (some know me as Dragon). 
+
+I'm an Software Engineer full time and learning new skills in my free time. 
+
 * 🌍  I'm based in Germany
 * ✉️  You can contact me at [dragonsfurestudio@gmail.com](mailto:dragonsfurestudio@gmail.com)
-* 🧠  I'm learning React, Typescript and Next.js
 
 ### Skills
 
