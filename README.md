@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 My name is Ahmet-Efdal (some know me as Dragon). 
 
-I'm an Software Engineer full time and learning new skills in my free time. 
+I'm an Software Engineer at Hydac and studying cooperativly at Universität des Saarlandes. I also like to learn new skills in my free time. 
 
 * 🌍  I'm based in Germany
 * ✉️  You can contact me at [dragonsfurestudio@gmail.com](mailto:dragonsfurestudio@gmail.com)
