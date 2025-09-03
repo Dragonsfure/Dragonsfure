@@ -1,2 +1,8 @@
-Student at Universität des Saarlandes, i play around and overengineer Projects, that i only finish half-way trough :D
+Student at Universität des Saarlandes.
+
+Hobby:
+- Overengineering Projects, that i only finish half-way trough :D
+- Hangout with Friends
+
+
 I also work on the side, RIP freetime 
